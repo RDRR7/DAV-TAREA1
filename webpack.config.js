@@ -19,10 +19,15 @@ module.exports = {
         test: /\.json$/,
         loader: 'json-loader',
       },
+      {
+        test: /\.css$/,
+        use: ['style-loader', 'css-loader'],
+        loader: 'style-loader!css-loader',
+      },
     ],
   },
   resolve: {
-    extensions: ['', '.js', '.jsx', '.json'],
+    extensions: ['', '.js', '.jsx', '.json', '.css'],
   },
   output: {
     path: `${__dirname}/src/`,

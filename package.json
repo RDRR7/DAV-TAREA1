@@ -14,14 +14,16 @@
     "babel-preset-react": "^6.3.13",
     "babel-preset-stage-0": "^6.3.13",
     "eslint": "^4.9.0",
-    "prettier": "^1.12.1",
     "json-loader": "^0.5.4",
+    "prettier": "^1.12.1",
     "react": "^0.14.6",
     "react-dom": "^0.14.6",
+    "style-loader": "^0.21.0",
     "webpack": "^1.12.12",
     "webpack-dev-server": "^1.14.1"
   },
   "devDependencies": {
+    "css-loader": "^0.28.11",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.11.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",

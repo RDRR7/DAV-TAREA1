@@ -14,7 +14,7 @@ class DepartmentInfo extends React.Component {
     return (
       <div>
         <p>{this.props.description}</p>
-        <img height="42" width="42" alt={this.props.name} src={this.props.imageURL} />
+        <img alt={this.props.name} src={this.props.imageURL} />
       </div>
     );
   }
