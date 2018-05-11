@@ -7,7 +7,7 @@ const Layout = () => (
     <h1>Departamentos</h1>
     {departments.departments
       .filter(department => `${department.name} `)
-      .map(department => <DepartmentList name={department.name} {...department} />)}
+      .map(department => <DepartmentList {...department} />)}
   </div>
 );
 

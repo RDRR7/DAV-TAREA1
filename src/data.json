@@ -2,33 +2,45 @@
   "departments": [
     {
       "name": "Atlántida",
-      "description": "",
-      "imageURL": ""
+      "description":
+        "El departamento de Atlántida es uno de los 18 departamentos que conforman la República de Honduras. El departamento fue creado oficialmente en 1902, desde territorios pertenecientes a Colón, Cortés y Yoro. Durante 1910 la población del departamento era de 11.370 habitantes.",
+      "imageURL":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Atlantida_in_Honduras.svg/738px-Atlantida_in_Honduras.svg.png"
     },
     {
       "name": "Choluteca",
-      "description": "",
-      "imageURL": ""
+      "description":
+        "Choluteca es uno de los 18 departamentos en que está dividida Honduras, y el más meridional de este país. En el período clásico mesoamericano, los Cholultecas se dedicaron al comercio en un vasto territorio que abarcaba el sur de México, Belice, Guatemala, partes de El Salvador y Nicaragua; en el ejercicio de esta industria llegaron a la Costa Sur de Honduras, y fundaron Choluteca cientos de años antes de la conquista.",
+      "imageURL":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Choluteca_in_Honduras.svg/738px-Choluteca_in_Honduras.svg.png"
     },
     {
       "name": "Colón",
-      "description": "",
-      "imageURL": ""
+      "description":
+        "Colón es uno de 18 departamentos de Honduras también con la segunda ciudad de Honduras Puerto de Trujillo departamentos de la república de Honduras.",
+      "imageURL":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Colon_in_Honduras.svg/738px-Colon_in_Honduras.svg.png"
     },
     {
       "name": "Comayagua",
-      "description": "",
-      "imageURL": ""
+      "description":
+        "Comayagua es uno de los dieciocho departamentos que conforman la República de Honduras. El departamento de Comayagua cuyo nombre significa en dialecto lenca \"páramo abundante de agua\", es uno de los siete departamentos originales en que se dividió el Estado de Honduras. Esta división político ca se llevó a cabo el 28 de junio de 1825, bajo el gobierno del Jefe de Estado, Dionisio de Herrera.",
+      "imageURL":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Comayagua_in_Honduras.svg/738px-Comayagua_in_Honduras.svg.png"
     },
     {
       "name": "Copán",
-      "description": "",
-      "imageURL": ""
+      "description":
+        "Copán es uno de los dieciocho departamentos que integran la república de Honduras. El territorio que hoy es el departamento estuvo habitado por la civilización Maya-Chortis en el occidente y norte; y Lenca por el extremo sur, su nombre Copán, es debido al cacique Copán Galel guerrero que defendió sus tierras antes de la colonización española, este territorio fue jurisdicción de la ciudad colonial de Gracias a Dios y hasta el 28 de mayo de 1869, lo fue del departamento de Lempira, en esta fecha fue creado oficialmente del Departamento de Copán y nombrada como cabecera a la ciudad de Santa Rosa de Copán, en la administración del capitán general don José María Medina.",
+      "imageURL":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Copan_in_Honduras.svg/738px-Copan_in_Honduras.svg.png"
     },
     {
-      "name": "Cortes",
-      "description": "",
-      "imageURL": ""
+      "name": "Cortés",
+      "description":
+        "Cortés es uno de los dieciocho departamentos, que comprenden la república de Honduras. Históricamente, el Departamento de Cortés es uno de los más importantes de Honduras. El 14 de agosto de 1502, desembarcó Cristóbal Colón en el cabo Caxinas, hoy Trujillo, y tomó posesión del territorio de la actual Honduras en nombre de los reyes de España. Veintidós años más tarde, en marzo de 1524, Gil González Dávila arribó al territorio que hoy se conoce como el departamento de Cortés procedente de la isla de La Española con propósitos de conquista.",
+      "imageURL":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cortes_in_Honduras.svg/738px-Cortes_in_Honduras.svg.png"
     }
   ]
 }

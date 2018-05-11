@@ -1,9 +1,8 @@
-const debug = process.env.NODE_ENV !== 'production';
 const path = require('path');
 
 module.exports = {
   context: path.join(__dirname, 'src'),
-  devtool: debug ? 'inline-sourcemap' : false,
+  devtool: 'inline-sourcemap',
   entry: './js/client.jsx',
   module: {
     loaders: [
