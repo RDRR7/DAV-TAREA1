@@ -1,0 +1,34 @@
+{
+  "departments": [
+    {
+      "name": "Atlántida",
+      "description": "",
+      "imageURL": ""
+    },
+    {
+      "name": "Choluteca",
+      "description": "",
+      "imageURL": ""
+    },
+    {
+      "name": "Colón",
+      "description": "",
+      "imageURL": ""
+    },
+    {
+      "name": "Comayagua",
+      "description": "",
+      "imageURL": ""
+    },
+    {
+      "name": "Copán",
+      "description": "",
+      "imageURL": ""
+    },
+    {
+      "name": "Cortes",
+      "description": "",
+      "imageURL": ""
+    }
+  ]
+}
