@@ -10,7 +10,7 @@
 
   "plugins": ["react"],
 
-  "extends": ["airbnb", "prettier"],
+  "extends": ["airbnb"],
 
   "rules": {
     "react/jsx-no-bind": [
