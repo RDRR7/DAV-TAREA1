@@ -12,12 +12,6 @@ class DepartmentList extends React.Component {
     };
   }
 
-  _onButtonClick() {
-    this.setState({
-      showComponent: true,
-    });
-  }
-
   render() {
     return (
       <div>
